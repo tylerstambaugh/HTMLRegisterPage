@@ -2,3 +2,12 @@ body {
 background-color: cyan;
 
 }
+
+.navbar {
+    background-color: darkorange;
+}
+
+.form {
+    align-items: center;
+}
+
