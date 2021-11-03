@@ -11,6 +11,7 @@ h2{
     padding-left: 80px;
 }
 
+
 .navbar {
     background-color: darkorange;
     padding-top: 15px;
@@ -35,7 +36,7 @@ h2{
 #button {
     background-color: brown;
     color: white;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 #Submitbutton {
     background-color: brown;
